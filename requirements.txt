@@ -1,0 +1,17 @@
+spotipy
+lyricsgenius
+openai
+pymongo
+fastapi[all]
+graphene
+spaCy
+textblob
+gensim
+wordcloud
+transformers
+torch
+requests
+pandas
+joblib
+uvicorn
+pytest

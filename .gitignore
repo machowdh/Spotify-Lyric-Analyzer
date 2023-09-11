@@ -27,6 +27,7 @@ venv/
 
 # Environment variables and secrets
 .env
+.cache
 
 # Logs
 logs/

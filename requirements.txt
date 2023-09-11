@@ -15,3 +15,4 @@ pandas
 joblib
 uvicorn
 pytest
+python-decouple
